@@ -12,7 +12,7 @@ Implementation of root-finding algorithms for polynomials, with numerical soluti
   <li>CSV storage of the numerical solution</li>
 </ul>
 
-The main window is a simple GUI created with Tkinter and the plotting happens with Matplotlib
+The main window is a simple GUI created with Tkinter and the plotting happens with Matplotlib. The spinbox allows the selection of the polynomial's order. As selected, small boxes will appear above, each one to input the coefficients for each of the powers on the polynomial. Click the "Generar P(x)" to generate the polynomial, then proceed with the method selection.
 
 ![gui](https://user-images.githubusercontent.com/53312754/120087586-d4163600-c0ae-11eb-9c30-80a55b8317e7.jpg)
 
