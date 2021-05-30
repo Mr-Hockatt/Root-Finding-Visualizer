@@ -22,9 +22,8 @@ The table shows a preview of the numerical solution of the root-finding. Complet
 
 ## Requirements
 <ul>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li><b>CSV</b></li>
+  <li><b>Matplotlib</b></li>
+  <li><b>Numpy</b></li>
+  <li><b>Tkinter</b></li>
 </ul>
