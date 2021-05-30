@@ -1,5 +1,6 @@
 # Root-Finding-Visualizer
-Implementation of root-finding algorithms for polynomials, with numerical solutions and visualization.
+Implementation of root-finding algorithms for polynomials, with numerical solutions and visualization.</br>
+This project was created as part of my <b>Mathematical Methods</b> class on my 4th semester of Mechatronics Engineering.
 
 ![plot](https://user-images.githubusercontent.com/53312754/120087491-31f64e00-c0ae-11eb-9ce1-441ba715b39f.png)
 
